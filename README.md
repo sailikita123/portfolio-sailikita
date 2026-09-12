@@ -4,14 +4,13 @@ My personal developer portfolio showcasing my technical skills, projects, intern
 
 ## 🚀 Live Website
 
-**Portfolio:**
-https://sailikita123.github.io/sailikita/
+[**https://sailikita123.github.io/portfolio-sailikita/**](https://sailikita123.github.io/portfolio-sailikita/)
 
 ## 👩‍💻 About
 
-I am a Computer Science Engineering student focused on **Software Development, Full-Stack Web Development, Java & Data Structures and Algorithms**.
+I am a Computer Science Engineering student focused on **Software Development, Full-Stack Web Development, Java, and Data Structures & Algorithms**.
 
-This portfolio brings together my development projects, technical skills, internship experience and certifications in one place.
+This portfolio brings together my development projects, technical skills, internship experience, and certifications in one place.
 
 ## ✨ Features
 
@@ -44,24 +43,24 @@ portfolio-sailikita/
 
 ## 🎯 Highlights
 
-The portfolio presents my work across:
+The portfolio showcases my work and experience across:
 
 * Full-Stack Web Development
 * Frontend Development
-* Java & DSA
+* Java & Data Structures and Algorithms
 * AI-powered applications
 * Database-based applications
 * Software Engineering projects
 
 ## 💻 Run Locally
 
-Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/sailikita123/portfolio-sailikita.git
 ```
 
-Move into the project directory:
+### 2. Open the project
 
 ```bash
 cd portfolio-sailikita
@@ -73,20 +72,25 @@ Open `index.html` in your browser.
 
 The portfolio is deployed using **GitHub Pages**.
 
+### Live URL
+
+[**https://sailikita123.github.io/portfolio-sailikita/**](https://sailikita123.github.io/portfolio-sailikita/)
+
 ## 🔮 Future Improvements
 
-* Add a dedicated project case-study section
+* Add detailed project case studies
 * Improve accessibility
 * Optimize website performance
 * Add dark/light mode
-* Add additional project demonstrations
+* Add more project demonstrations
 * Improve animations and interactions
+* Add a backend-powered contact form
 
 ## 📬 Connect With Me
 
-* 💻 GitHub: https://github.com/sailikita123
-* 💼 LinkedIn: https://linkedin.com/in/sailikita05
-* 🌐 Portfolio: https://sailikita123.github.io/sailikita/
+* 💻 GitHub: [**https://github.com/sailikita123**](https://github.com/sailikita123)
+* 💼 LinkedIn: [**https://linkedin.com/in/sailikita05**](https://linkedin.com/in/sailikita05)
+* 🌐 Portfolio: [**https://sailikita123.github.io/portfolio-sailikita/**](https://sailikita123.github.io/portfolio-sailikita/)
 
 ---
 
