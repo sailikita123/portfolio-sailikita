@@ -43,14 +43,17 @@ This portfolio brings together my development projects, technical skills, intern
 
 ## 📂 Project Structure
 
-```text
 portfolio-sailikita/
+│
+├── screenshots/
+│   ├── home.png
+│   ├── projects.png
+│   └── skills.png
 │
 ├── index.html
 ├── styles.css
 ├── script.js
 └── README.md
-```
 
 ## 🎯 Highlights
 
