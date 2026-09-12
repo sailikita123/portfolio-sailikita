@@ -22,6 +22,17 @@ This portfolio brings together my development projects, technical skills, intern
 * 📫 Contact information
 * 📱 Responsive design
 
+## 📸 Portfolio Preview
+
+### Home
+![Portfolio Home](screenshots/home.png)
+
+### Projects
+![Portfolio Projects](screenshots/projects.png)
+
+### Skills
+![Portfolio Skills](screenshots/skills.png)
+
 ## 🛠️ Technologies
 
 * HTML5
