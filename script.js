@@ -43,10 +43,10 @@ document.querySelectorAll(".js-leetcode-count").forEach(el => {
 const typewriterEl = document.getElementById("typewriter");
 const ROLES = ["Software Engineer", "Full-Stack Developer", "Java Developer", "Problem Solver"];
 
-if (typewriterEl && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+if (typewriterEl) {
   let roleIndex = 0;
   let charIndex = ROLES[0].length;
-  let deleting = false;
+  let deleting = true;
 
   function tick() {
     const current = ROLES[roleIndex];
@@ -70,8 +70,6 @@ if (typewriterEl && !window.matchMedia("(prefers-reduced-motion: reduce)").match
     setTimeout(tick, deleting ? 35 : 70);
   }
   setTimeout(tick, 1400);
-} else if (typewriterEl) {
-  typewriterEl.textContent = ROLES[0];
 }
 
 /* ---------- Section-title reveal (one moment per section) ---------- */
